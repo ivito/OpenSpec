@@ -1,0 +1,2 @@
+# OpenSpec
+Specification , Standard
